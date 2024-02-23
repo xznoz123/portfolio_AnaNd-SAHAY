@@ -1,0 +1,35 @@
+/* styles.css */
+
+#education-section .section-padding {
+    padding: 60px 0;
+}
+
+#education-section .row {
+    display: flex;
+    border-radius: 5px;
+    height: 400px;
+    margin-bottom: 250px;
+}
+
+#education-section .title,
+#education-section h3.title {
+    color: #fed700;
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+#internship-section .section-padding {
+    /* Add specific styles for the internship section */
+}
+
+#internship-section .row {
+    /* Add specific styles for the internship section */
+}
+
+#internship-section .title,
+#internship-section h3.title {
+    /* Add specific styles for the internship section */
+}
+
+/* Add more styles as needed */
